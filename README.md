@@ -7,8 +7,8 @@ Aqui você encontrará alguns dos meus projetos, onde busco sempre aprender e ap
 ## 🚀 Sobre mim
 
 - 🔭 Atualmente, estou trabalhando no meu projeto PAP.
-- 🌱 Estou aprendendo mais sobre **[React.js]** para aprimorar minhas habilidades.
-- 💼 Tenho experiência em **[ASP.NET]**.
+- 🌱 Estou aprendendo mais sobre **React.js** para aprimorar minhas habilidades.
+- 💼 Tenho experiência em **ASP.NET**.
 - 🧠 Sempre busco desafios que me ajudem a crescer profissionalmente e contribuir para a comunidade de código aberto.
 
 ## 🛠️ Tecnologias & Ferramentas
@@ -19,7 +19,7 @@ Eu sou um progamador full-stack, o que me permite trabalhar tanto em **frontend*
 - HTML, CSS, JavaScript, TypeScript, React
 
 ### **Backend**
-- C#, ASP.NET, Node.js, VBA
+- C#, ASP.NET, Python, VBA
 
 ### **Banco de Dados**
 - SQL Server, MongoDB
