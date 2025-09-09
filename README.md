@@ -6,10 +6,9 @@ Aqui você encontrará alguns dos meus projetos, onde busco sempre aprender e ap
 
 ## 🚀 Sobre mim
 
-- 🔭 Atualmente, estou trabalhando no meu projeto PAP.
-- 🌱 Estou aprendendo mais sobre **React.js** para aprimorar minhas habilidades.
+- 🔭 Atualmente, estou aberto do mercado de trabalho.
 - 💼 Tenho experiência em **ASP.NET**.
-- 🧠 Sempre busco desafios que me ajudem a crescer profissionalmente e contribuir para a comunidade de código aberto.
+- 🧠 Sempre em busca de desafios que me ajudem a crescer profissionalmente e contribuir para a comunidade de código aberto.
 
 ## 🛠️ Tecnologias & Ferramentas
 
