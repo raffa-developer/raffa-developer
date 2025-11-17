@@ -1,33 +1,38 @@
-# Olá, eu sou o Rafa 👋
+<img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
+<h1 align="center">Hi 👋, I'm Rafael Gonçalves</h1>
+<h3 align="center">Welcome to my GitHub profile! I'm a developer focused on creating innovative technological solutions. I have experience in various areas, such as web development, data management, and software applications.</h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=raffa-developer&label=Profile%20views&color=0e75b6&style=flat" alt="raffa-developer" /> </p>
 
-Bem-vindo ao meu perfil no GitHub! Sou um programador apaixonado por criar soluções tecnológicas inovadoras. Tenho experiência em várias áreas, como **desenvolvimento web**, **gestão de dados** e **aplicações de software**, utilizando tecnologias como **C#**, **ASP.NET**, **JavaScript** e muito mais.
+<div> <a href="https://www.linkedin.com/in/rafa-gonçalves" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href="https://github.com/raffa-developer" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
+</div><h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/rafa-gonçalves" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/linked-in-alt.svg" alt="rafa-gonçalves" height="30" width="40" /></a></p>
 
-Aqui você encontrará alguns dos meus projetos, onde busco sempre aprender e aplicar as melhores práticas de desenvolvimento.
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/csharp-original.svg" alt="Csharp" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/javascript-original.svg" alt="Javascript" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/php-original.svg" alt="PHP" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/python-original.svg" alt="Python" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/react-original-wordmark.svg" alt="React" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/css3-original-wordmark.svg" alt="Css" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Database/microsoft-sql-server-logo.svg" alt="Microsoft Sql Server" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Database/mysql-original-wordmark.svg" alt="Mysql" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Devops/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Devops/kubernetes-icon.svg" alt="Kubernetes" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Framework/dot-net-original-wordmark.svg" alt="Dot Net" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Visualization/logo-title.svg" alt="Chart Js" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/git-scm-icon.svg" alt="Git" width="40" height="40"/>
+</p>
 
-## 🚀 Sobre mim
-
-- 🔭 Atualmente, estou aberto do mercado de trabalho.
-- 💼 Tenho experiência em **ASP.NET**.
-- 🧠 Sempre em busca de desafios que me ajudem a crescer profissionalmente e contribuir para a comunidade de código aberto.
-
-## 🛠️ Tecnologias & Ferramentas
-
-Eu sou um progamador full-stack, o que me permite trabalhar tanto em **frontend** quanto no **backend**. Aqui estão algumas das tecnologias que utilizo:
-
-### **Frontend**
-- HTML, CSS, JavaScript, TypeScript, React
-
-### **Backend**
-- C#, ASP.NET, Python, VBA
-
-### **Banco de Dados**
-- SQL Server, MongoDB
-
-### **Outras ferramentas**
-- Git, GitHub, REST APIs
-- 
-## 🌍 Conecte-se comigo
-
-- [LinkedIn](https://www.linkedin.com/in/rafa-gon%C3%A7alves/)
-- [Twitter](https://x.com/zpx_dv)
-- [Portfólio](https://raffa-developer.github.io/website/)
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
+<div align="center">
+<a href="https://github.com/raffa-developer">
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=raffa-developer&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=raffa-developer&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=raffa-developer&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=raffa-developer&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=raffa-developer&theme=2077" height="180em" />
+</div>
